@@ -31,10 +31,3 @@ Este proyecto de Java con la biblioteca JavaFX y el patrón Observer-Listener pe
 ## Cómo Ejecutar el Proyecto
 
 Asegúrate de tener Java y JavaFX instalados. Luego, puedes clonar el proyecto y ejecutarlo localmente.
-
-```bash
-git clone https://tu-repositorio.git
-cd tu-proyecto
-# Asegúrate de tener las dependencias necesarias instaladas
-# Ejecutar la aplicación
-./gradlew run
