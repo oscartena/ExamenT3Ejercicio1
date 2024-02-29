@@ -13,7 +13,7 @@ Este proyecto de Java con la biblioteca JavaFX y el patrón Observer-Listener pe
 
 - Escucha la lista de URLs y muestra mensajes en la consola cada vez que se añade un elemento.
 - Si la URL está vacía, imprime "Se va a proceder a descargar y comprimir los ficheros".
-- Si la URL no está vacía, imprime "http://google.es encolado como abcdefghijklmnopqrst".
+- Si la URL no está vacía, imprime "{url} encolado como {cadenaÚnica}".
 
 ## Uso de la Aplicación
 
